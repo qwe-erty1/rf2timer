@@ -20,7 +20,7 @@ p {
     margin-top: 0px;
     color: white;
 }
-#link {
+a {
     text-align: center;
     font-family: 'Calibri', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 45px;
