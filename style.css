@@ -1,5 +1,5 @@
 html { 
-    background: rgba(0, 0, 0, 0.69) url(timerbg.png) no-repeat center center fixed; 
+    background: rgba(0, 0, 0, 0.69) url(timerbg.png) repeat-x center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
