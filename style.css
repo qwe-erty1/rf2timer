@@ -18,7 +18,7 @@ p {
     text-align: center;
     font-family: 'Calibri', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 45px;
-    text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     margin-top: 0px;
     color: white;
 }
